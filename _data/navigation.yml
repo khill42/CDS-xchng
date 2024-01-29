@@ -1,8 +1,8 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Topics"
+    url: /topics/
+  - title: "Education Materials"
+    url: /materials/
   - title: "Tags"
     url: /tags/
   - title: "About"
